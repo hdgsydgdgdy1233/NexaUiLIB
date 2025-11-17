@@ -1,4 +1,4 @@
-local Fluriore = loadstring(game:HttpGet("URL"))()
+local Fluriore = loadstring(game:HttpGet("https://raw.githubusercontent.com/hdgsydgdgdy1233/NexaUiLIB/refs/heads/main/FlurioreLib.lua"))()
 
 -- Window
 local Window = Fluriore:CreateWindow({
